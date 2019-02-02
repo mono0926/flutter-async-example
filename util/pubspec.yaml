@@ -1,0 +1,12 @@
+name: util
+version: 1.0.0
+description: util
+author: Masayuki Ono <mono0926@gmail.com>
+homepage: https://mono0926.com
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+dependencies:
+  faker: any
+dev_dependencies:
+  quiver: any
+  test: any
